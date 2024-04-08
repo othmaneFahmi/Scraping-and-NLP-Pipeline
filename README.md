@@ -47,4 +47,4 @@ This project showcased the application of web scraping, NLP, and NER techniques 
 - Explore more advanced NLP techniques tailored for Arabic text.
 - Incorporate additional Arabic language resources and datasets.
 - Enhance the efficiency and accuracy of NLP models through further experimentation and fine-tuning.
-- This README provides a comprehensive overview of the project, its objectives, methodologies, challenges faced, and future directions. It serves as a guide for anyone interested in understanding the project and its contributions to Arabic language processing.
+This README provides a comprehensive overview of the project, its objectives, methodologies, challenges faced, and future directions. It serves as a guide for anyone interested in understanding the project and its contributions to Arabic language processing.
